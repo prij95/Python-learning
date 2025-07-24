@@ -34,3 +34,10 @@ print(f'boolean = {boolean}')
 (This prints that boolean = True) 
 
 None = something was not intialised yet 
+
+snake_case and camelCase (snake case uses underscores, eg = Hello_world. Whereas camel case uses upper case eg = HelloWorld 
+
+yourName = input("What is your name?")
+yourFavouriteFood = input("What is your favourite food?")
+your_favourite_music = input("What is your favourite music?")
+where_do_you_live = input("Where do you live?")
