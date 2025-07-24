@@ -1,1 +1,36 @@
+print("Hello Python!")
+print("Hello World!")
+# Type your code below: var = 5
+# Don't change the line below
+print(f'var = {var}')
+var = Variable 
+str = String 
+To intialise a string - use single or double quotation marks 
+char = A single character
 
+
+
+# Type your code below
+coddy = ?
+
+# Don't change the line below
+print(f'coddy = "{coddy}"')
+
+# Type your code below
+coddy = "I am learning to code with coddy!
+(This bascially prints that I am learning to code with coddy)
+
+# Type your code below
+boolean = ?
+
+# Don't change the line below
+print(f'boolean = {boolean}')
+
+# Type your code below
+boolean = True
+
+# Don't change the line below
+print(f'boolean = {boolean}')
+(This prints that boolean = True) 
+
+None = something was not intialised yet 
