@@ -41,3 +41,27 @@ yourName = input("What is your name?")
 yourFavouriteFood = input("What is your favourite food?")
 your_favourite_music = input("What is your favourite music?")
 where_do_you_live = input("Where do you live?")
+
+nameafood = input("What is your favorite food? ")
+nameatypeofplant = input("What is your favorite plant? ")
+nameamethodofcooking = input("What is your favorite method of cooking? ")
+whatWordDescribesBurntFood = input("What word describes burnt food? ")
+nameaDIYitem = input("What is your favorite DIY item? ")
+print(nameafood, "thinks it is", nameamethodofcooking, whatWordDescribesBurntFood, "and", nameatypeofplant, nameaDIYitem,)
+
+print("Welcome to your adventure simulator. I am going to ask you a bunch of questions and then create an epic story with you as the star!")
+
+name = input("what is your name?")
+enemy = input("what is your worst enemy's name?")
+superpower = input("what is your superpower?")
+yourfavouritefood = input("what is your favorite food?")
+print("Our story begins as our hero " + name + " approaches a foreboding castle...")
+print("Suddenly a bolt of lightning striked the ground at the feet of " + name)
+print("Our final battle begins. Will it be " + name + " with " + superpower + " or " + enemy + "?")
+print(name + " attacked " + enemy + " with " + superpower)
+print("But " + enemy + " shocked him, obviosuly " + enemy + " had a lightning superpower.")
+print("But " + name + " was not surprized, " + name + " had a plan.")
+print(name + " made " + enemy + " eat " + yourfavouritefood + " and then died of choking on a bone")
+print("THE END")
+
+
